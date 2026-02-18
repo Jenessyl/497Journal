@@ -1,4 +1,4 @@
-# Entry 4 – January 23, 2026
+# Entry 4 – February 14, 2026
 
 **Author: Jenessy Jane Lustre**
 - **Git-visible accomplishments since last meeting (3HR):**

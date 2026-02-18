@@ -5,7 +5,7 @@
   - Started and worked on square-loci search feature (works on UI)
 <br/><br/>
 - **Work in progress since last meeting not yet on Git (1HR):**
-  - 
+  - None
 <br/><br/>
 - **Things I will do before the next meeting (or the meeting after
 that):**
